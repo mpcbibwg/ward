@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Ward 12" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [73.8567, 18.5204],
+            [73.8577, 18.5204],
+            [73.8577, 18.5214],
+            [73.8567, 18.5214],
+            [73.8567, 18.5204]
+          ]
+        ]
+      }
+    }
+  ]
+}
